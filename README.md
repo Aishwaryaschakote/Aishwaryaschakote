@@ -33,9 +33,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishwaryaschakote&show_icons=true&theme=tokyonight)
+![GitHub stats](www.linkedin.com/in/aishwaryachakote)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryaschakote&layout=compact&theme=tokyonight)
+![Best work](https://www.linkedin.com/posts/aishwaryachakote_smartirrigation-nain2abr0-lora-activity-7316188950312718336-b68F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2dMfgBpsjR8iE9O4zSJomfeGnW5aBT1yc)
 
 ---
 
