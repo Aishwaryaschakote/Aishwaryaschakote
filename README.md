@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">Aspiring Software Engineer | DSA Learner | Future AI Engineer</h3>
+<h3 align="center">CSE’26 @BLDEACET🎓 | Govt Funded Project Lead (NAIN 2.0)🏅| C++| Java | Python | ML | UI/UX | IoT | HTML | CSS | React | SQL | DSA | Web Dev Intern💻</h3>
 
 ---
 
