@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aishwarya</h1>
+<h3 align="center">Aspiring Software Engineer | DSA Learner | Future AI Engineer</h3>
 
-<!--
-**Aishwaryaschakote/Aishwaryaschakote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 BE Student passionate about coding & problem solving  
+- 💻 Currently practicing **Data Structures & Algorithms daily**  
+- 🤖 Interested in **AI, Web Development, and Real-world Projects**  
+- 🎯 Goal: **Crack 10–12 LPA Software Engineer role**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📈 Current Focus
+- Solving **DSA problems every day**
+- Building **real-world coding projects**
+- Improving **problem-solving & coding consistency**
+
+---
+
+## 🧠 Tech Stack
+**Languages:** C, C++, Java, Python  
+**Web:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code  
+**Learning:** DSA, AI/ML Basics
+
+---
+
+## 📂 Featured Repositories
+- 🔹 **Daily-DSA** → My daily coding journey  
+- 🔹 **Projects** → Real-world development work (coming soon)
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aishwaryaschakote&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryaschakote&layout=compact&theme=tokyonight)
+
+---
+
+## 🌟 Quote I Follow
+> “Consistency beats talent when talent doesn’t work hard.”
+
+---
+
+⭐ **Follow my journey as I grow into a Software Engineer!**
