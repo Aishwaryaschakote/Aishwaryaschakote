@@ -7,7 +7,7 @@
 - 🎓 BE Student passionate about coding & problem solving  
 - 💻 Currently practicing **Data Structures & Algorithms daily**  
 - 🤖 Interested in **AI, Web Development, and Real-world Projects**  
-- 🎯 Goal: **Crack Software Engineer role**
+- 🎯 Goal: **Software Engineer**
 
 ---
 
