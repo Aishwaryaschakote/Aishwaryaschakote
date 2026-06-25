@@ -61,34 +61,53 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 
 This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
 
----
-
 # 💻 Tech Stack
 
 ### 👨‍💻 Languages
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### 🛠 Tools & Technologies
+### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
 </p>
 
-### 📚 Currently Learning
+**Also Worked With**
 
-- Advanced DSA
-- React
-- Backend Development
+`REST APIs` • `JSON`
+
+---
+
+### 🤖 AI / ML
+
 - Machine Learning
+- Natural Language Processing (NLP)
+- Data Preprocessing
+- NumPy
+- Pandas
+- Matplotlib
+- Regression Models
+
+---
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase" />
+</p>
+
+**Embedded Systems**
+
+`ESP32` • `Raspberry Pi 5` • `LoRa` • `GSM Module`
 
 ---
 
@@ -128,9 +147,7 @@ When I'm away from the keyboard, you'll probably find me
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night"/>
-
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -186,3 +203,4 @@ When I'm away from the keyboard, you'll probably find me
 <h3 align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
 </h3>
+### 📚  I am still Learning...
