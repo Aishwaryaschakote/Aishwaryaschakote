@@ -69,7 +69,7 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 ### 👨‍💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
 ### 🌐 Frontend
