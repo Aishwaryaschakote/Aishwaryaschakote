@@ -66,29 +66,40 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 # 💻 Tech Stack
 
+<table>
+<tr>
+
+<td valign="top" width="50%">
+
 ### 👨‍💻 Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" />
 </p>
+
+---
 
 ### 🌐 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 </p>
+
+---
 
 ### ⚙️ Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase&perline=2" />
 </p>
 
 **Also Worked With**
 
 `REST APIs` • `JSON`
 
----
+</td>
+
+<td valign="top" width="50%">
 
 ### 🤖 AI / ML
 
@@ -102,16 +113,28 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 ---
 
-### 🔧 Tools & Technologies
+### 🔧 Developer Tools
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
-**Embedded Systems**
+---
 
-`ESP32` • `Raspberry Pi 5` • `LoRa` • `GSM Module`
+### 📡 Embedded Systems
 
+`ESP32`
+
+`Raspberry Pi 5`
+
+`LoRa`
+
+`GSM Module`
+
+</td>
+
+</tr>
+</table>
 ---
 # 🌱 Beyond Coding
 
@@ -144,22 +167,22 @@ When I'm away from the keyboard, you'll probably find me
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/aishwaryachakote/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://portfolio-website-aishwarya.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-4F8EF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Aishwaryaschakote" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -168,11 +191,11 @@ When I'm away from the keyboard, you'll probably find me
 
 ##💭 Quote I Believe In
 
-> **"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."**
+> *"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."*
 
 ---
 
-<h3 align="center">
+<p align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
-</h3>
+</p>
 ## 📚  I am still Learning...
