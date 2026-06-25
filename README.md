@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Aishwarya Chakote Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
 
 <p align="center">
@@ -121,9 +124,6 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 📘 **Daily DSA Journey**
 
-More exciting projects are on the way...
-
----
 
 # 🌱 Beyond Coding
 
@@ -146,48 +146,53 @@ When I'm away from the keyboard, you'll probably find me
 
 </p>
 
-<p align="center">
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aishwaryaschakote&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Aishwaryaschakote/Aishwaryaschakote/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Aishwaryaschakote/Aishwaryaschakote/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> *(Enable this later using GitHub Actions after creating your profile repository.)*
+---
 
 ---
+
+
+
+
+---
+🌱 Smart Irrigation System
+┣━ Government Funded (NAIN 2.0)
+┣━ IoT + ML + Raspberry Pi
+┗━ Team Lead
+
+🏥 AI Healthcare Application
+┣━ GenAI + FlutterFlow
+┣━ KSCST Selected
+┗━ Team Lead
+
+🌐 Portfolio Website
+┣━ React
+┣━ Responsive UI
+┗━ Live Demo
 
 # 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aishwaryachakote/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<a href="https://www.linkedin.com/in/aishwaryachakote/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+&nbsp;&nbsp;
+
+<a href="https://portfolio-website-aishwarya.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-4F8EF7?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Aishwaryaschakote">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/Aishwaryaschakote" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
