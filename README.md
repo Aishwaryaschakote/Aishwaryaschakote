@@ -113,18 +113,6 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 `ESP32` • `Raspberry Pi 5` • `LoRa` • `GSM Module`
 
 ---
-
-# 📂 Featured Repositories
-
-🌱 **Smart Irrigation System**
-
-🏥 **Healthcare Web Application**
-
-🌐 **Personal Portfolio Website**
-
-📘 **Daily DSA Journey**
-
-
 # 🌱 Beyond Coding
 
 When I'm away from the keyboard, you'll probably find me
@@ -154,27 +142,6 @@ When I'm away from the keyboard, you'll probably find me
 
 ---
 
----
-
-
-
-
----
-🌱 Smart Irrigation System
-┣━ Government Funded (NAIN 2.0)
-┣━ IoT + ML + Raspberry Pi
-┗━ Team Lead
-
-🏥 AI Healthcare Application
-┣━ GenAI + FlutterFlow
-┣━ KSCST Selected
-┗━ Team Lead
-
-🌐 Portfolio Website
-┣━ React
-┣━ Responsive UI
-┗━ Live Demo
-
 # 🌐 Connect With Me
 
 <p align="left">
@@ -199,7 +166,7 @@ When I'm away from the keyboard, you'll probably find me
 
 ---
 
-# 💭 Quote I Believe In
+##💭 Quote I Believe In
 
 > **"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."**
 
@@ -208,4 +175,4 @@ When I'm away from the keyboard, you'll probably find me
 <h3 align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
 </h3>
-### 📚  I am still Learning...
+## 📚  I am still Learning...
