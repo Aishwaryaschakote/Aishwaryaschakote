@@ -1,47 +1,188 @@
-<h1 align="center">Hi there👋, I'm Aishwarya</h1>
-<h3 align="center">CSE’26 @BLDEACET🎓 | Govt Funded Project Lead (NAIN 2.0)🏅| C++| Java | Python | ML | UI/UX | IoT | HTML | CSS | React | SQL | DSA | Web Dev Intern💻</h3>
+<h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Government+Funded+Project+Lead+(NAIN+2.0);Aspiring+Software+Engineer;Learning+Something+New+Every+Day+🚀" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aishwaryaschakote&label=Profile%20Views&color=4F8EF7&style=flat-square" />
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 BE Student passionate about coding & problem solving  
-- 💻 Currently practicing **Data Structures & Algorithms daily**  
-- 🤖 Interested in **AI, Web Development, and Real-world Projects**  
-- 🎯 Goal: **Software Engineer**
+# 🌸 About Me
+
+I'm **Aishwarya Chakote**, a final-year Computer Science Engineering student who loves turning ideas into real-world solutions through technology.
+
+I enjoy building projects that solve practical problems, whether it's developing web applications, exploring Machine Learning, working with IoT devices, or sharpening my problem-solving skills through DSA.
+
+One of the most meaningful experiences in my journey has been leading a **Government of Karnataka funded innovation project**, where I worked with IoT and Machine Learning to build a smart irrigation system for grape cultivation.
+
+I'm currently preparing for **Software Engineering roles** while continuously learning, building, and improving every day.
 
 ---
 
-## 📈 Current Focus
-- Solving **DSA problems every day**
-- Building **real-world coding projects**
-- Improving **problem-solving & coding consistency**
+# 🚀 What I'm Currently Working On
+
+- 🌱 Solving DSA problems consistently
+- 💻 Building real-world web applications
+- 🤖 Exploring Machine Learning concepts
+- 🎨 Improving UI/UX design skills
+- 📚 Learning React and strengthening development skills
+- 💼 Preparing for Software Engineering placements
 
 ---
 
-## 🧠 Tech Stack
-**Languages:** C, C++, Java, Python  
-**Web:** HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, VS Code  
-**Learning:** DSA, AI/ML Basics
+# 🏆 Featured Project
+
+## 🌿 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
+
+**Government of Karnataka Funded | NAIN 2.0**
+
+As the **Project Lead**, I led the development of an intelligent irrigation system designed to help farmers make better irrigation decisions using real-time sensor data and Machine Learning.
+
+### Technologies Used
+
+- ESP32
+- Raspberry Pi 5
+- Firebase
+- Machine Learning
+- IoT Sensors
+- Python
+- Embedded Systems
+
+### Key Features
+
+- 📡 Real-time environmental monitoring
+- 💧 Smart irrigation recommendations
+- ☁️ Cloud data storage using Firebase
+- 📱 Mobile monitoring support
+- 🤖 Machine Learning based decision making
+
+This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
 
 ---
 
-## 📂 Featured Repositories
-- 🔹 **Daily-DSA** → My daily coding journey  
-- 🔹 **Projects** → Real-world development work (coming soon)
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### 🛠 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase" />
+</p>
+
+### 📚 Currently Learning
+
+- Advanced DSA
+- React
+- Backend Development
+- Machine Learning
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](www.linkedin.com/in/aishwaryachakote)
+# 📂 Featured Repositories
 
-![Best work](https://www.linkedin.com/posts/aishwaryachakote_smartirrigation-nain2abr0-lora-activity-7316188950312718336-b68F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD2dMfgBpsjR8iE9O4zSJomfeGnW5aBT1yc)
+🌱 **Smart Irrigation System**
+
+🏥 **Healthcare Web Application**
+
+🌐 **Personal Portfolio Website**
+
+📘 **Daily DSA Journey**
+
+More exciting projects are on the way...
 
 ---
 
-## 🌟 Quote I Follow
-> “Consistency beats talent when talent doesn’t work hard.”
+# 🌱 Beyond Coding
+
+When I'm away from the keyboard, you'll probably find me
+
+- 📖 Learning new technologies
+- 🎨 Improving UI designs
+- 🧩 Solving coding challenges
+- 💡 Exploring ideas for new projects
 
 ---
 
-⭐ **Follow my journey as I grow into a Software Engineer!**
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aishwaryaschakote&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwaryaschakote&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aishwaryaschakote&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Aishwaryaschakote/Aishwaryaschakote/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> *(Enable this later using GitHub Actions after creating your profile repository.)*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/aishwaryachakote/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Aishwaryaschakote">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💭 Quote I Believe In
+
+> **"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."**
+
+---
+
+<h3 align="center">
+✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
+</h3>
