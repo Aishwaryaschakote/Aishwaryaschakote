@@ -1,294 +1,206 @@
-```{=html}
+<h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
+
 <p align="center">
-```
-`<img src="assets/banner.png" width="100%" alt="Banner"/>`{=html}
-```{=html}
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Government+Funded+Project+Lead+(NAIN+2.0);Aspiring+Software+Engineer;Learning+Something+New+Every+Day+🚀" />
 </p>
-```
-```{=html}
-<h1 align="center">
-```
-Hi 👋 I'm Aishwarya Chakote
-```{=html}
-</h1>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Government+Funded+NAIN+2.0+Project+Lead;AI+%7C+IoT+%7C+Web+Development;Aspiring+Software+Engineer;Learning+Something+New+Every+Day+🚀"/>`{=html}
-```{=html}
+  <img src="https://komarev.com/ghpvc/?username=Aishwaryaschakote&label=Profile%20Views&color=4F8EF7&style=flat-square" />
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=Aishwaryaschakote&label=Profile+Views&color=4F8EF7&style=flat-square"/>`{=html}
-```{=html}
+
+---
+
+# 🌸 About Me
+
+I'm **Aishwarya Chakote**, a final-year Computer Science Engineering student who loves turning ideas into real-world solutions through technology.
+
+I enjoy building projects that solve practical problems, whether it's developing web applications, exploring Machine Learning, working with IoT devices, or sharpening my problem-solving skills through DSA.
+
+One of the most meaningful experiences in my journey has been leading a **Government of Karnataka funded innovation project**, where I worked with IoT and Machine Learning to build a smart irrigation system for grape cultivation.
+
+I'm currently preparing for **Software Engineering roles** while continuously learning, building, and improving every day.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+- 🌱 Solving DSA problems consistently
+- 💻 Building real-world web applications
+- 🤖 Exploring Machine Learning concepts
+- 🎨 Improving UI/UX design skills
+- 📚 Learning React and strengthening development skills
+- 💼 Preparing for Software Engineering placements
+
+---
+
+# 🏆 Featured Project
+
+## 🌿 Smart Irrigation System for Grape Cultivation using IoT & Machine Learning
+
+**Government of Karnataka Funded | NAIN 2.0**
+
+As the **Project Lead**, I led the development of an intelligent irrigation system designed to help farmers make better irrigation decisions using real-time sensor data and Machine Learning.
+
+### Technologies Used
+
+- ESP32
+- Raspberry Pi 5
+- Firebase
+- Machine Learning
+- IoT Sensors
+- Python
+- Embedded Systems
+
+### Key Features
+
+- 📡 Real-time environmental monitoring
+- 💧 Smart irrigation recommendations
+- ☁️ Cloud data storage using Firebase
+- 📱 Mobile monitoring support
+- 🤖 Machine Learning based decision making
+
+This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,mysql" />
 </p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="360"/>`{=html}
-```{=html}
+
+### 🌐 Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
-```
-```{=html}
-<h3 align="center">
-```
-💻 Building practical solutions through AI, IoT & Web Development
-```{=html}
-</h3>
-```
 
-------------------------------------------------------------------------
+### ⚙️ Backend & Database
 
-# 👩‍💻 About Me
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
 
--   🎓 Final-Year Computer Science Engineering Student
--   🏆 Government of Karnataka Funded **NAIN 2.0 Project Lead**
--   💼 AI & Cloud Computing Intern @ **SuprMentr Technologies**
--   🚀 KSCST Student Project (VTU) Selected
--   💻 Passionate about Software Engineering, AI, IoT & Full-Stack
-    Development
--   📈 Improving every day through DSA and hands-on projects
+**Also Worked With**
 
-------------------------------------------------------------------------
+`REST APIs` • `JSON`
 
-# 🏆 Highlights
+---
 
--   🥈 **Top 10 / 50 Teams** -- NAIN 2.0 Graduation Day
--   🏆 Government Funded Innovation Project
--   🚀 AI-Driven Healthcare Application selected under **KSCST**
--   💼 AI & Cloud Computing Internship
--   🌱 Led an IoT & Machine Learning based Smart Irrigation System
+### 🤖 AI / ML
 
-------------------------------------------------------------------------
+- Machine Learning
+- Natural Language Processing (NLP)
+- Data Preprocessing
+- NumPy
+- Pandas
+- Matplotlib
+- Regression Models
 
-# 💻 Languages, Tools & Technologies
+---
 
-```{=html}
-<table>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Languages`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,java,python"/>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Frontend`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,react"/>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Backend`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=firebase,supabase"/>`{=html}  
-REST APIs • JSON
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}AI / ML`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-Machine Learning • NLP • NumPy • Pandas • Matplotlib • Data
-Preprocessing • Regression Models
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Developer Tools`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode"/>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-<tr>
-```
-```{=html}
-<td>
-```
-`<b>`{=html}Embedded`</b>`{=html}
-```{=html}
-</td>
-```
-```{=html}
-<td>
-```
-ESP32 • Raspberry Pi 5 • LoRa • GSM Module
-```{=html}
-</td>
-```
-```{=html}
-</tr>
-```
-```{=html}
-</table>
-```
+### 🔧 Tools & Technologies
 
-------------------------------------------------------------------------
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,supabase" />
+</p>
 
-# 🚀 Featured Projects
+**Embedded Systems**
 
-  -----------------------------------------------------------------------
-  Project                        Tech Stack
-  ------------------------------ ----------------------------------------
-  🌱 **Smart Irrigation System** ESP32 • Raspberry Pi • Firebase • ML •
-                                 LoRa • GSM
+`ESP32` • `Raspberry Pi 5` • `LoRa` • `GSM Module`
 
-  🏥 **AI-Driven Healthcare      GenAI • REST APIs • Supabase •
-  Application**                  FlutterFlow
+---
 
-  🌐 **Portfolio Website**       HTML • CSS • JavaScript • React
-  -----------------------------------------------------------------------
+# 📂 Featured Repositories
 
-------------------------------------------------------------------------
+🌱 **Smart Irrigation System**
 
-# 📚 Currently Learning
+🏥 **Healthcare Web Application**
 
--   Advanced Data Structures & Algorithms
--   React
--   Backend Development
--   Generative AI
+🌐 **Personal Portfolio Website**
 
-------------------------------------------------------------------------
+📘 **Daily DSA Journey**
+
+More exciting projects are on the way...
+
+---
+
+# 🌱 Beyond Coding
+
+When I'm away from the keyboard, you'll probably find me
+
+- 📖 Learning new technologies
+- 🎨 Improving UI designs
+- 🧩 Solving coding challenges
+- 💡 Exploring ideas for new projects
+
+---
 
 # 📊 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aishwaryaschakote&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwaryaschakote&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aishwaryaschakote&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwaryaschakote&theme=tokyonight&hide_border=true"/>
+
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night&hide_border=true"/>`{=html}
-```{=html}
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aishwaryaschakote&theme=tokyo-night&hide_border=true"/>
 </p>
-```
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Aishwaryaschakote&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
-```{=html}
 <p align="center">
-```
-`<img src="https://raw.githubusercontent.com/Aishwaryaschakote/Aishwaryaschakote/output/github-contribution-grid-snake-dark.svg"/>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+<img src="https://raw.githubusercontent.com/Aishwaryaschakote/Aishwaryaschakote/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+> *(Enable this later using GitHub Actions after creating your profile repository.)*
+
+---
 
 # 🌐 Connect With Me
 
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/in/aishwaryachakote/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}
-`</a>`{=html}
+<p align="left">
 
-  
+<a href="https://www.linkedin.com/in/aishwaryachakote/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+</a>
 
-`<a href="https://portfolio-website-aishwarya.vercel.app/">`{=html}
-`<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>`{=html}
-`</a>`{=html}
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
 
-  
+<a href="https://github.com/Aishwaryaschakote">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
 
-`<a href="https://github.com/Aishwaryaschakote">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}
-`</a>`{=html}
-
-```{=html}
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 💭 Quote
+# 💭 Quote I Believe In
 
-> *"Success isn't built overnight---it's built through consistency,
-> curiosity, and the courage to keep learning."*
+> **"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."**
 
-```{=html}
-<p align="center">
-```
-✨ Thanks for visiting my profile! Every repository reflects my journey
-of learning, building and growing as a developer.
-```{=html}
-</p>
-```
+---
+
+<h3 align="center">
+✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
+</h3>
+### 📚  I am still Learning...
