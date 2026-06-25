@@ -198,5 +198,5 @@ When I'm away from the keyboard, you'll probably find me
 <p align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
 </p>
+---
 ## 📚  I am still Learning...
-update it fully as we discussed just now
