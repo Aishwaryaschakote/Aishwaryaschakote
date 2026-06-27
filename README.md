@@ -66,36 +66,42 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 # 💻 Tech Stack
 
-<table>
+<div align="center">
+
+<table width="90%">
 <tr>
 
 <td valign="top" width="50%">
 
 ### 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python&perline=4" />
 </p>
 
 ---
 
 ### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" />
 </p>
 
 ---
 
 ### ⚙️ Backend & Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=firebase,supabase&perline=2" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase&perline=2" />
 </p>
 
-**Also Worked With**
+#### Also Worked With
+
+<p>
 
 `REST APIs` • `JSON`
+
+</p>
 
 </td>
 
@@ -115,13 +121,15 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 ### 🔧 Developer Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" />
 </p>
 
 ---
 
 ### 📡 Embedded Systems
+
+<p>
 
 `ESP32`
 
@@ -131,21 +139,15 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 `GSM Module`
 
+</p>
+
 </td>
 
 </tr>
 </table>
----
-# 🌱 Beyond Coding
 
-When I'm away from the keyboard, you'll probably find me
+</div>
 
-- 📖 Learning new technologies
-- 🎨 Improving UI designs
-- 🧩 Solving coding challenges
-- 💡 Exploring ideas for new projects
-
----
 
 # 📊 GitHub Analytics
 
@@ -168,35 +170,17 @@ When I'm away from the keyboard, you'll probably find me
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/aishwaryachakote/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://portfolio-website-aishwarya.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/Aishwaryaschakote" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/aishwaryachakote/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a><a href="https://portfolio-website-aishwarya.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a><a href="https://github.com/Aishwaryaschakote">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
-##💭 Quote I Believe In
-
-> *"Success isn't built overnight—it's built through consistency, curiosity, and the courage to keep learning."*
-
 ---
 
 <p align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
 </p>
----
-## 📚  I am still Learning...
+
