@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Aishwarya Chakote Banner" width="100%" />
+  <img src="assets/coding-girl.gif" alt="Coding Girl Animation" width="750"/>
 </p>
 <h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
 
