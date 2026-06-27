@@ -63,9 +63,10 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 - 🤖 Machine Learning based decision making
 
 This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
-<p align="center">
-# 💻 Tech Stack
-</p>
+
+---
+
+<h1 align="center">💻 Tech Stack</h1>
 
 <div align="center">
 
@@ -132,7 +133,7 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 <p>
 
-`ESP32`
+`ESP32` 
 
 `Raspberry Pi 5`
 
@@ -149,6 +150,7 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 </div>
 
+---
 
 # 📊 GitHub Analytics
 
@@ -159,6 +161,8 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aishwaryaschakote&theme=tokyonight&hide_border=true"/>
 
 </p>
+
+---
 
 # 🐍 Contribution Snake
 
@@ -179,6 +183,8 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 <p align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
