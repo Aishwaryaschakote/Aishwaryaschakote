@@ -33,8 +33,14 @@ I'm someone who believes that every project is an opportunity to learn something
 
 As the **Project Lead**, I led the development of an intelligent irrigation system designed to help farmers make better irrigation decisions using real-time sensor data and Machine Learning.
 
-<details open>
-<summary><b>🛠️ Technologies Used</b></summary>
+<div align="center">
+
+<table width="90%">
+<tr>
+
+<td valign="top" width="50%">
+
+### 🛠️ Technologies Used
 
 - ESP32
 - Raspberry Pi 5
@@ -44,10 +50,11 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 - Python
 - Embedded Systems
 
-</details>
+</td>
 
-<details open>
-<summary><b>✨ Key Features</b></summary>
+<td valign="top" width="50%">
+
+### ✨ Key Features
 
 - 📡 Real-time environmental monitoring
 - 💧 Smart irrigation recommendations
@@ -55,8 +62,12 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 - 📱 Mobile monitoring support
 - 🤖 Machine Learning based decision making
 
-</details>
+</td>
 
+</tr>
+</table>
+
+</div>
 This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
 
 ---
