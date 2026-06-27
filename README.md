@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Aishwarya Chakote Banner" width="100%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhsajRzc2NiMno0Zzk2OWRkaGU0ZG54M3VmZXgxcDhucmRwaGF4YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"
+       alt="Girl Coding"
+       width="420">
 </p>
 <h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
 
