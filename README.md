@@ -15,24 +15,13 @@
 
 # 🌸 About Me
 
-I'm **Aishwarya Chakote**, a final-year Computer Science Engineering student who loves turning ideas into real-world solutions through technology.
+Hi! I'm **Aishwarya Chakote**, a final-year Computer Science Engineering student who enjoys learning, building, and solving real-world problems through technology.
 
-I enjoy building projects that solve practical problems, whether it's developing web applications, exploring Machine Learning, working with IoT devices, or sharpening my problem-solving skills through DSA.
+My interests lie in **Software Development, Machine Learning, IoT, and Data Structures & Algorithms**. I love exploring new technologies and turning ideas into meaningful projects that create real impact.
 
-One of the most meaningful experiences in my journey has been leading a **Government of Karnataka funded innovation project**, where I worked with IoT and Machine Learning to build a smart irrigation system for grape cultivation.
+A highlight of my academic journey has been leading a **Government of Karnataka-funded NAIN 2.0 innovation project**, where I developed a **Smart Irrigation System for Grape Cultivation** using IoT and Machine Learning to help farmers make smarter irrigation decisions.
 
-I'm currently preparing for **Software Engineering roles** while continuously learning, building, and improving every day.
-
----
-
-# 🚀 What I'm Currently Working On
-
-- 🌱 Solving DSA problems consistently
-- 💻 Building real-world web applications
-- 🤖 Exploring Machine Learning concepts
-- 🎨 Improving UI/UX design skills
-- 📚 Learning React and strengthening development skills
-- 💼 Preparing for Software Engineering placements
+I'm someone who believes that every project is an opportunity to learn something new. I'm currently preparing for **IT roles**, continuously improving my technical skills, and excited to contribute to impactful products while growing as an Engineer.
 
 ---
 
@@ -44,7 +33,11 @@ I'm currently preparing for **Software Engineering roles** while continuously le
 
 As the **Project Lead**, I led the development of an intelligent irrigation system designed to help farmers make better irrigation decisions using real-time sensor data and Machine Learning.
 
-### Technologies Used
+<div align="center">
+
+<div style="display:inline-block; width:45%; vertical-align:top; text-align:left;">
+
+### 🛠️ Technologies Used
 
 - ESP32
 - Raspberry Pi 5
@@ -54,13 +47,21 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 - Python
 - Embedded Systems
 
-### Key Features
+</div>
+
+<div style="display:inline-block; width:45%; vertical-align:top; text-align:left;">
+
+### ✨ Key Features
 
 - 📡 Real-time environmental monitoring
 - 💧 Smart irrigation recommendations
 - ☁️ Cloud data storage using Firebase
 - 📱 Mobile monitoring support
 - 🤖 Machine Learning based decision making
+
+</div>
+
+</div>
 
 This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
 
@@ -133,13 +134,7 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
 
 <p>
 
-`ESP32` 
-
-`Raspberry Pi 5`
-
-`LoRa`
-
-`GSM Module`
+`ESP32` • `Raspberry Pi 5` • `LoRa` • `GSM Module` • `IoT Sensors`
 
 </p>
 
