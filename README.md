@@ -4,7 +4,10 @@
 <h1 align="center">Hi 👋, I'm Aishwarya Chakote</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Government+Funded+Project+Lead+(NAIN+2.0);Aspiring+Software+Engineer;Learning+Something+New+Every+Day+🚀" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Computer+Science+Engineering+Student;Government+Funded+Project+Lead+(NAIN+2.0);Aspiring+Software+Engineer;Building+Technology+That+Makes+an+Impact"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
