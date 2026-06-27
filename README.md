@@ -63,8 +63,9 @@ As the **Project Lead**, I led the development of an intelligent irrigation syst
 - 🤖 Machine Learning based decision making
 
 This project strengthened my technical, leadership, teamwork, and problem-solving skills while working on real hardware and software integration.
-
+<p align="center">
 # 💻 Tech Stack
+</p>
 
 <div align="center">
 
@@ -178,7 +179,6 @@ This project strengthened my technical, leadership, teamwork, and problem-solvin
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
----
 
 <p align="center">
 ✨ Thanks for stopping by! Every repository here reflects my journey of learning, building, and growing as a developer.
